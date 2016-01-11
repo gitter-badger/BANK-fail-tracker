@@ -30,4 +30,5 @@ specially to fulfill the purpose of this project.
 
 The R script included in this project (free for anyone to improve the code!),
 only changes column names and removes unnecessary columns for a more appropriate
-use of this data for (Central de Dados)[http://centraldedados.pt/]
+use of this data for (Central de Dados)[http://centraldedados.pt/]. Notwithstanding,
+the script contains commentaries along its code.
