@@ -1,5 +1,5 @@
 # bank-fail-tracker
-Data fetching & munging of Failed Bank Tracker
+Data fetching & Processing of Failed Bank Tracker
 
 # Objective
 
