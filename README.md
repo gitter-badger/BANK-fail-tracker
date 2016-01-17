@@ -1,4 +1,6 @@
-# bank-fail-tracker
+[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)]() [![npm](https://img.shields.io/npm/dm/localeval.svg)]() [![](https://img.shields.io/github/issues-raw/badges/shields.svg)]()
+
+# BANK-fail-tracker
 Data fetching & Processing of Failed Bank Tracker
 
 # Objective
