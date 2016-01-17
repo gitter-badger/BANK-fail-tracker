@@ -1,5 +1,8 @@
-[![Magnum CI](https://img.shields.io/magnumci/ci/96ffb83fa700f069024921b0702e76ff.svg)]()
-[![npm](https://img.shields.io/npm/dm/localeval.svg)]() 
+[![Build Status](https://img.shields.io/github/forks/https://github.com/okfn-oe/BANK-fail-tracker/.svg?style=plastic)](https://github.com/https://github.com/okfn-oe/BANK-fail-tracker/)
+[![Test Coverage](http://img.shields.io/coveralls/https://github.com/okfn-oe/BANK-fail-tracker//master.svg?style=plastic)](https://coveralls.io/r/https://github.com/okfn-oe/BANK-fail-tracker/?branch=master)
+[![Dependency Status](https://www.versioneye.com/user/projects/https://github.com/okfn-oe/BANK-fail-tracker//badge.svg?style=plastic)](https://www.versioneye.com/user/projects/https://github.com/okfn-oe/BANK-fail-tracker/)
+[![NPM Downloads](https://img.shields.io/npm/dm/https://github.com/okfn-oe/BANK-fail-tracker/.svg?style=plastic)](https://www.npmjs.com/package/https://github.com/okfn-oe/BANK-fail-tracker/)
+
 
 # BANK-fail-tracker
 Data fetching & Processing of Failed Bank Tracker
