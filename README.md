@@ -1,6 +1,5 @@
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)]() 
+[![Magnum CI](https://img.shields.io/magnumci/ci/96ffb83fa700f069024921b0702e76ff.svg)]()
 [![npm](https://img.shields.io/npm/dm/localeval.svg)]() 
-[![](https://img.shields.io/github/issues-raw/badges/shields.svg)]()
 
 # BANK-fail-tracker
 Data fetching & Processing of Failed Bank Tracker
