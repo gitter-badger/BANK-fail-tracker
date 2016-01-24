@@ -1,8 +1,12 @@
 SHELL = /bin/bash
 GENERATED_FILES = failed-banks.geojson
-.PHONY: all
+
+.PHONY: all clean
 
 all: $(GENERATED_FILES)
+
+clean:
+	rm -Rf data/*
 
 .INTERMEDIATE: failed-bank-tracker.csv
 failed-bank-tracker.csv:
@@ -29,5 +33,5 @@ banks.csv: failed-bank-tracker.csv longitude.csv latitude.csv
 	csvjoin $^ > $@
 
 failed-banks.geojson: banks.csv
-	csvjson --lat latitude --lon longitude --crs EPSG:4269 $< > $@
+	csvjson --lat latitude --lon longitude --crs EPSG:4269 $< > data/$(notdir $@)
 
