@@ -5,6 +5,8 @@
 
 
 # BANK-fail-tracker
+
+[![Join the chat at https://gitter.im/okfn-oe/BANK-fail-tracker](https://badges.gitter.im/okfn-oe/BANK-fail-tracker.svg)](https://gitter.im/okfn-oe/BANK-fail-tracker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Data fetching & Processing of Failed Bank Tracker
 
 # Objective
